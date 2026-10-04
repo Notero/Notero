@@ -1,7 +1,5 @@
 ### Akin Korkmaz
 
-Graviton is a Physics based 
-
 CS senior at UCF (graduating Dec 2026).
 Previously software engineer at **Intrastack Solutions**, a cloud transformation and IT services consultancy.
 
