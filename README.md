@@ -13,7 +13,9 @@ I build full-stack web and mobile apps, and games in my spare time.
 
 #### Currently
 Looking for new-grad software engineering roles.
+
 Also working on Graviton my senior design project.
+
 Actively Learning C++
 
 akinkorkmaz13@gmail.com · [LinkedIn](https://www.linkedin.com/in/akın-korkmaz-760b05303)
